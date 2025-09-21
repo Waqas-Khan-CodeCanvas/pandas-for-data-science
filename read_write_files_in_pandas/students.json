@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Ali Khan",
+      "age": 20,
+      "gender": "Male",
+      "email": "alikhan@example.com",
+      "department": "Computer Science",
+      "gpa": 3.5,
+      "courses": ["Data Structures", "Database Systems", "Operating Systems"]
+    },
+    {
+      "id": 2,
+      "name": "Sara Ahmed",
+      "age": 19,
+      "gender": "Female",
+      "email": "sara.ahmed@example.com",
+      "department": "Software Engineering",
+      "gpa": 3.8,
+      "courses": ["Web Development", "Computer Networks", "AI Fundamentals"]
+    },
+    {
+      "id": 3,
+      "name": "Usman Ali",
+      "age": 21,
+      "gender": "Male",
+      "email": "usman.ali@example.com",
+      "department": "Information Technology",
+      "gpa": 3.2,
+      "courses": ["Cloud Computing", "Cyber Security", "Machine Learning"]
+    },
+    {
+      "id": 4,
+      "name": "Ayesha Khan",
+      "age": 22,
+      "gender": "Female",
+      "email": "ayesha.khan@example.com",
+      "department": "Computer Science",
+      "gpa": 3.9,
+      "courses": ["Algorithms", "Data Mining", "Software Engineering"]
+    },
+    {
+      "id": 5,
+      "name": "Bilal Ahmed",
+      "age": 20,
+      "gender": "Male",
+      "email": "bilal.ahmed@example.com",
+      "department": "Electrical Engineering",
+      "gpa": 3.4,
+      "courses": [
+        "Circuit Analysis",
+        "Digital Logic Design",
+        "Embedded Systems"
+      ]
+    }
+  ]
+}
